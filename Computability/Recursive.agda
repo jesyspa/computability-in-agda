@@ -1,4 +1,4 @@
-module Recursive where
+module Computability.Recursive where
 
 open import Data.Empty using (⊥; ⊥-elim)
 open import Data.Unit using (⊤)
