@@ -1,3 +1,4 @@
+{-# OPTIONS --without-K #-}
 module Computability.Prelude where
 
 open import Data.Bool public using (Bool; false; true)

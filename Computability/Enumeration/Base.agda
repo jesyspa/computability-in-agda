@@ -1,3 +1,4 @@
+{-# OPTIONS --without-K #-}
 module Computability.Enumeration.Base where
 
 open import Computability.Prelude

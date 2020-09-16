@@ -1,7 +1,8 @@
+{-# OPTIONS --without-K #-}
 module Computability.Function where
 
 open import Computability.Prelude
-import Function -- using (Injective; Surjective; Bijective; _∘_)
+import Function
 
 variable
   l₀ l₁ : Level
